@@ -1,0 +1,4 @@
+module SwiftQuiche {
+  header "quiche.h"
+  export *
+}
