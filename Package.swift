@@ -15,5 +15,6 @@ let package = Package(
     .binaryTarget(
       name: "SwiftQuiche",
       path: "SwiftQuiche.xcframework"
+    )
   ]
 )
