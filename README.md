@@ -1,3 +1,3 @@
 # SwiftQuiche
 
-XCFramework wrapping Cloudflare's quiche libraries.
+XCFramework packaging Cloudflare's [quiche](https://github.com/cloudflare/quiche) libraries.
