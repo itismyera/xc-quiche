@@ -1,0 +1,4 @@
+module XCQuiche {
+  header "quiche.h"
+  export *
+}
