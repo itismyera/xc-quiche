@@ -3,18 +3,18 @@
 import PackageDescription
 
 let package = Package(
-  name: "SwiftQuiche",
+  name: "XCQuiche",
   products: [
     .library(
-      name: "SwiftQuiche",
-      targets: ["SwiftQuiche"]
+      name: "XCQuiche",
+      targets: ["XCQuiche"]
     ),
   ],
   dependencies: [],
   targets: [
     .binaryTarget(
-      name: "SwiftQuiche",
-      path: "SwiftQuiche.xcframework"
+      name: "XCQuiche",
+      path: "XCQuiche.xcframework"
     )
   ]
 )
